@@ -23,3 +23,7 @@
 #outer {
 	margin-top: 50px;
 }
+
+.horizontal-gutter {
+	margin: 0 30px;
+}
