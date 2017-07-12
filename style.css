@@ -1,0 +1,25 @@
+/*height classes*/
+.xs-height{
+	height: 20px;
+	background-color: #000;
+}
+
+.sm-height {
+	height: 60px;
+	background-color: #000;
+}
+
+.md-height {
+	height: 180px;
+	background-color: #000;
+}
+
+.lg-height{
+	height: 540px;
+	background-color: #000 ;
+}
+
+/*outer classes*/
+#outer {
+	margin-top: 50px;
+}
